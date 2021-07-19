@@ -12,6 +12,7 @@
     "express": "^4.17.1",
     "html-pdf": "^3.0.1",
     "phantomjs-prebuilt": "^2.1.16",
+    "puppeteer": "^10.1.0",
     "typescript": "^4.3.5"
   },
   "devDependencies": {
